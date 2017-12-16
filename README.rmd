@@ -1,3 +1,14 @@
+---
+title: "Welcome to GitHub Pages"
+author: "extra info"
+date: "December 15, 2017"
+output: 
+  html_document:
+    theme: cosmo
+    toc_depth: 2
+    toc_float: true
+    toc: true
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/janzeteachesit/rstudio-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

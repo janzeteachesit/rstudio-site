@@ -1,0 +1,12 @@
+---
+title: "test"
+author: "extra info"
+date: "December 15, 2017"
+output: 
+  html_document:
+    theme: cosmo
+    toc_depth: 2
+    toc_float: true
+    toc: true
+---
+Hello, Website!

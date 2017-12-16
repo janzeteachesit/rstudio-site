@@ -1,0 +1,11 @@
+name: "my-website-name"
+output_dir: "."
+navbar:
+  title: "Courses"
+  left:
+    - text: "Readme"
+      href: README.html
+    - text: "test"
+      href: test.html
+    - text: "Overview"
+      href: index.html
